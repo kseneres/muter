@@ -1,5 +1,9 @@
 Universal mute toggle button: Arduino Uno turned into a USB-HID that sends the mute toggle keyboard shortcuts.
 
+<p align="center">
+  <img width="480" src="https://github.com/kseneres/muter/blob/master/pic.jpg">
+</p>
+
 \*Supported applications (MacOS only): Google Meets, Slack
 
 ### Development
