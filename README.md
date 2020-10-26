@@ -8,7 +8,7 @@ Universal mute toggle button: Arduino Uno turned into a USB-HID that sends the m
 
 ### Development
 
-- Prepare for dfu programming: https://arduino.stackexchange.com/questions/484/arduino-as-usb-hid
+- Prepare for dfu programming: https://www.arduino.cc/en/Hacking/DFUProgramming8U2
   - Use real Arduino Uno
   - Install dfu programmer
   - Reset device
