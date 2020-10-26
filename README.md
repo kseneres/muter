@@ -17,7 +17,7 @@ Universal mute toggle button: Arduino Uno turned into a USB-HID that sends the m
 
 ### References:
 
-https://arduino.stackexchange.com/questions/484/arduino-as-usb-hid
-http://mitchtech.net/arduino-usb-hid-keyboard/
-https://www.arduino.cc/en/Hacking/DFUProgramming8U2
-https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2#file-usb_hid_keys-h
+* https://arduino.stackexchange.com/questions/484/arduino-as-usb-hid
+* http://mitchtech.net/arduino-usb-hid-keyboard/
+* https://www.arduino.cc/en/Hacking/DFUProgramming8U2
+* https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2#file-usb_hid_keys-h
